@@ -1,0 +1,19 @@
+{
+  "name": "我的日常小记",
+  "short_name": "日常小记",
+  "description": "记录拉粑粑、洗澡等日常小事，可爱小猫陪伴你",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF7F2",
+  "theme_color": "#FFE9DC",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
